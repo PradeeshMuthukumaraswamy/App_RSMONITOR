@@ -1,0 +1,9 @@
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:configure="com.example.android.ExampleAppWidgetConfigure"
+    android:initialLayout="@layout/home_screen_widget"
+    android:minHeight="@dimen/appwidget_small_minheight"
+    android:minWidth="@dimen/appwidget_small_minwidth"
+    android:previewImage="@drawable/home_screen_widget_preview_image"
+    android:updatePeriodMillis="0" >
+
+</appwidget-provider>
